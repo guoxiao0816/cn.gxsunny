@@ -1,11 +1,22 @@
+---
+isShowComments: false
+---
+
 ### 介绍
 
 - 使用 vuepress 搭建的个人博客网站
 
-### KimShift 博客
+### 个人博客
 
 - 记得要奔走在自己的热爱里 🌹
 
+### `Vuepress`博客预览
+
+> github 预览地址：https://kimshift.github.io
+>
+> gitee 预览地址： [https://gitee.com/gx0816](https://gitee.com/gx0816)
+>
+> 苏格晓晓博客地址：[https://www.gxsunny.cn](https://www.gxsunny.cn/)
 
 **白嫖有罪，如有帮助，点赞收藏！**
 
@@ -98,7 +109,6 @@ Dev
 ---
 title: 文章标题
 date: 2020-02-02
-sidebar: 'auto'
 tags:
  - 标签
 categories:
@@ -106,6 +116,7 @@ categories:
 keys:
  - '123456'
 sticky: 1
+sidebar: false
 isShowComments: false
 publish: true
 ---
