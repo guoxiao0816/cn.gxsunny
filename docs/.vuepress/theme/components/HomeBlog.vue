@@ -73,7 +73,7 @@
           <h4 v-if="$tags.list.length !== 0"><i class="iconfont reco-tag"></i> 标签</h4>
           <TagList @getCurrentTag="getPagesByTags" />
           <h4 v-if="$themeConfig.friendLink && $themeConfig.friendLink.length !== 0">
-            <i class="iconfont reco-friend"></i> 应用
+            <i class="iconfont reco-friend"></i> 友链
           </h4>
           <FriendLink />
         </div>

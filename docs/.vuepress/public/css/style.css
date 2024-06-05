@@ -10,7 +10,10 @@
     vertical-align: middle;
 } */
 .page .page-title {
-  max-width: 840px !important;
+  max-width: 1000px !important;
+}
+.page .theme-reco-content {
+  max-width: 1000px !important;
 }
 .bilibili-player-video-recommend {
   display: none !important;

@@ -1,12 +1,12 @@
 <template>
   <div class="footer-wrapper">
-    <span>
+    <!-- <span>
       <i class="iconfont reco-theme"></i>
       <a target="_blank" href="https://kimshift.gitee.io">
         Powered by
         <a href="https://kimshift.gitee.io" target="_blank"><b>苏格晓晓</b></a>
       </a>
-    </span>
+    </span> -->
     <span v-if="$themeConfig.record">
       <i class="iconfont reco-beian"></i>
       <a :href="$themeConfig.recordLink || '#'" target="_blank">{{

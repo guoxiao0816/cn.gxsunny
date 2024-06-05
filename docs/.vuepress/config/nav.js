@@ -10,7 +10,7 @@ module.exports = [
       // },
       {
         text: '前端',
-        items: [{ text: '前端发展路径', link: '/views/technique/html/html01' }],
+        items: [{ text: '前端发展路径', link: '/views/technique/html/ChatGPT前端职业规划路径' }],
       },
     ],
   },

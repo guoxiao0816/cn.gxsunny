@@ -10,7 +10,7 @@ publish: true
 
 ::: danger 说明
 
-这是 ChatGPT 生成的职业规划，`vuepress` 提供的语法块，甚至内容都是 chatGPT 直接写的。
+这是 ChatGPT 生成的职业规划，甚至内容都是 chatGPT 直接写的。
 
 :::
 <!-- more -->

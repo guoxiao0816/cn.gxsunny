@@ -12,7 +12,7 @@ isShowComments: false
 
 ### `Vuepress`博客预览
 
-> github 预览地址：https://kimshift.github.io
+> github 预览地址：[使用 vuepress 搭建的个人博客网站源码](https://github.com/guoxiao0816/cn.gxsunny)
 >
 > gitee 预览地址： [https://gitee.com/gx0816](https://gitee.com/gx0816)
 >
