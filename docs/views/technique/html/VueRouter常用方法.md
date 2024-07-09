@@ -5,6 +5,7 @@ tags:
  - 前端
  - Vue
  - 面试
+ - VueRouter
 categories:
  - 前端开发
 publish: true
@@ -298,6 +299,8 @@ Vue Router 提供两种路由模式：`hash` 和 `history`
 
 ## 结论
 Vue Router 是 Vue.js 应用的关键组成部分，能够让你轻松实现客户端路由。通过定义路由、配置路由守卫和使用嵌套路由，你可以创建复杂且功能强大的单页面应用。
+
+### 拓展 [keepAlive 使用](../../JavaScript/development/keep-alive.md)
 
 
 

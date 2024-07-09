@@ -5,6 +5,7 @@ isShowComments: false
 ### 介绍
 
 - 使用 vuepress 搭建的个人博客网站
+- node 版本适用 v16.20.2 ，nvm 管理
 
 ### 个人博客
 
